@@ -1,0 +1,11 @@
+Flask
+requests
+redis
+python-dotenv
+alpha-vantage
+pandas
+pytest
+pytest-mock
+gunicorn
+prometheus-flask-exporter
+matplotlib

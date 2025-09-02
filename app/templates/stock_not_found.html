@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Not Found</title>
+</head>
+<body>
+    <h1>Stock symbol '{{ symbol }}' not found.</h1>
+    <p>Please check the symbol and try again.</p>
+    <a href="{{ url_for('main.index') }}">Back to home</a>
+</body>
+</html>

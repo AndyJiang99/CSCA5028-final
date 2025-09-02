@@ -20,7 +20,7 @@ A Python-based web application for fetching, analyzing, and visualizing stock ma
 
 A simple, clean interface with a single input field for users to enter a stock symbol (e.g., 'AAPL').
 
-![SampleStock.png](SampleStock.png)
+![HomePage.png](HomePage.png)
 
 ### 2. Stock Data View
 
@@ -28,7 +28,7 @@ After searching, the user is presented with a detailed view that includes:
 -   A chart visualizing the closing price, 200-day MA, and 500-day MA over the last two years.
 -   A data table showing the full historical daily data, including open, high, low, close, volume, and the calculated moving averages.
 
-*(Placeholder for Stock Data View Screenshot)*
+![SampleStock.png](SampleStock.png)
 
 ## System Architecture
 
